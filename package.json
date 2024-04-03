@@ -1,0 +1,17 @@
+{
+  "name": "email-app-using-node-express-nodemailer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/riyaapant/email-app-using-node-express-nodemailer.git",
+  "author": "pantriyapant@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
